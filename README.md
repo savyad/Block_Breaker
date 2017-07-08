@@ -1,3 +1,3 @@
 # Block_Breaker
-  This is arkanoid type of game which is in under construction it will be ready soon.
-  I am doing this project under a paid course from udemy.
+  This is a game in which you have to break all the blocks AKA arkanoid which we have played in our childhood so break all the blocks to win...
+  
